@@ -1,1 +1,3 @@
-learn and use git
+豆瓣源
+pip install -i https://pypi.douban.com/simple/ ***
+
